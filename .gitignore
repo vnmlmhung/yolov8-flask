@@ -1,0 +1,4 @@
+.vscode
+*.pt
+*.pyc
+record.log
